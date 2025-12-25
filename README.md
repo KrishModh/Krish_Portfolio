@@ -90,8 +90,7 @@ portfolio-fullstack/
 ## 🔐 Admin Side
 | Upload Projects Page | Upload Certificate Page | Messages Page |
 |--------------|--------------|--------------|
-| <img width="2560" height="1440" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/0de1338d-e023-4228-85e6-d92e970b6989" /> | <img width="2560" height="1440" alt="Screenshot (461)" src="https://github.com/user-attachments/assets/205e146a-f586-4a3a-b6ac-592bbcc7d499" /> 
-| <img width="2560" height="1440" alt="Screenshot (463)" src="https://github.com/user-attachments/assets/d58592e4-5d70-49d9-b1f4-782e889a0793" /> |
+| <img width="2560" height="1440" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/0de1338d-e023-4228-85e6-d92e970b6989" /> | <img width="2560" height="1440" alt="Screenshot (461)" src="https://github.com/user-attachments/assets/205e146a-f586-4a3a-b6ac-592bbcc7d499" /> | <img width="2560" height="1440" alt="Screenshot (463)" src="https://github.com/user-attachments/assets/d58592e4-5d70-49d9-b1f4-782e889a0793" /> |
 ---
 
 ## 📄 Database Tables (Oracle SQL)
